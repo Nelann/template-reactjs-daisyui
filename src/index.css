@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-secondary {
+  @apply bg-red-500 hover:bg-red-600 rounded-full;
+}
